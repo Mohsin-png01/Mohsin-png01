@@ -54,10 +54,6 @@ I'm a passionate **Frontend & Flutter Developer** who loves creating beautiful, 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin-png01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-png01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
