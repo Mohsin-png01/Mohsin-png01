@@ -168,5 +168,3 @@ I'm a passionate **Frontend & Flutter Developer** who loves creating beautiful, 
 </div>
 
 ---
-
-**Perfect!** Your GitHub profile README is now complete and ready to use.
