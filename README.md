@@ -1,7 +1,7 @@
-# Hi there, I'm Mohsin Jawad 👋
+# Hi there, I'm Mohsin Jawad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Flutter+Developer;Mobile+App+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Flutter+Developer;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,19 +11,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **Frontend & Flutter Developer** who loves creating beautiful, functional, and user-friendly applications. With expertise in both web and mobile development, I enjoy bringing ideas to life through code.
+I'm a passionate **Frontend & Flutter Developer** with expertise in creating responsive web applications and cross-platform mobile apps. I specialize in building user-friendly interfaces and delivering high-quality software solutions.
 
-- 🔭 Currently working on exciting Flutter and web projects
-- 🌱 Always learning new technologies and best practices
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about Frontend Development, Flutter, or Mobile App Development
-- ⚡ Fun fact: I love turning coffee into code ☕➡️💻
+- Currently working on Flutter and web development projects
+- Always learning new technologies and best practices
+- Looking to collaborate on open source projects
+- Ask me about Frontend Development, Flutter, or Mobile App Development
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 <div align="center">
@@ -47,7 +46,7 @@ I'm a passionate **Frontend & Flutter Developer** who loves creating beautiful, 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohsin-png01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -59,82 +58,54 @@ I'm a passionate **Frontend & Flutter Developer** who loves creating beautiful, 
 
 ---
 
-## 🎯 What I Do
+## Core Expertise
 
-### 🌐 Frontend Development
-- **Responsive Web Design** with HTML5, CSS3, and modern frameworks
-- **Interactive UIs** using JavaScript and modern libraries
-- **Styling Frameworks** like Tailwind CSS and Bootstrap
-- **Performance Optimization** and cross-browser compatibility
+**Frontend Development**  
+Responsive web design with HTML5, CSS3, and modern JavaScript frameworks. Proficient in Tailwind CSS and Bootstrap for efficient styling and cross-browser compatibility.
 
-### 📱 Mobile Development
-- **Cross-platform apps** with Flutter and Dart
-- **Native performance** with beautiful, custom UIs
-- **State management** and app architecture
-- **Integration** with APIs and databases
+**Mobile Development**  
+Cross-platform app development using Flutter and Dart, focusing on native performance with custom UI implementations and efficient state management.
 
-### 🗄️ Backend Integration
-- **Database design** with MongoDB
-- **API integration** and data management
-- **Full-stack solutions** from concept to deployment
+**Backend Integration**  
+Database design with MongoDB, API integration, and full-stack development from concept to deployment.
 
 ---
 
-## 🏆 GitHub Trophies
+## Featured Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohsin-png01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsin-png01&theme=tokyo-night&hide_border=true&point=false&area=true&radius=8&area_color=2e9ef7" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎨 Featured Projects
-
-### 📱 WhatsApp Clone - Flutter
-**Flutter Mobile App** - A fully functional messaging app clone
+### WhatsApp Clone - Flutter
+**Flutter Mobile Application** - Functional messaging app clone
 - Built with Flutter & Dart
 - Real-time messaging functionality
-- Custom chat UI with Material Design
+- Custom Material Design UI
 - Cross-platform compatibility
-- [🔗 View Repository](https://github.com/Mohsin-png01/whatsappclone-in-flutter)
+- [View Repository](https://github.com/Mohsin-png01/whatsappclone-in-flutter)
 
-### 💼 Mohsin Portfolio
-**Personal Portfolio Website** - Professional showcase of my work
+### Mohsin Portfolio
+**Personal Portfolio Website** - Professional work showcase
 - Modern HTML5, CSS3, and JavaScript
 - Responsive design with CSS Grid & Flexbox
 - Interactive animations and smooth transitions
-- Clean, modern UI/UX design
-- [🔗 View Repository](https://github.com/Mohsin-png01/Mohsin-Portfolio) | [🌐 Live Demo](https://mohsin-portfolio-nu.vercel.app/)
+- [View Repository](https://github.com/Mohsin-png01/Mohsin-Portfolio) | [Live Demo](https://mohsin-portfolio-nu.vercel.app/)
 
-### 🛒 E-commerce FYP
+### E-commerce FYP
 **Full Stack E-commerce Platform** - Final Year Project
 - Complete online shopping solution
 - JavaScript-based frontend
 - Shopping cart and payment integration
-- User authentication and management
-- [🔗 View Repository](https://github.com/Mohsin-png01/E-commerce-FYP)
+- User authentication system
+- [View Repository](https://github.com/Mohsin-png01/E-commerce-FYP)
 
-### 🌐 Landing Page Projects
-**Modern Landing Pages** - Collection of responsive landing pages
-- **GIG2**: HTML landing page with modern design
-- **GIG1**: CSS-focused responsive layout
-- **HTML-CSS-JS Portfolio**: Multi-tech portfolio site
-- Responsive design and cross-browser compatibility
-- [🔗 GIG2 Repository](https://github.com/Mohsin-png01/landing_page_gig2)
-- [🔗 GIG1 Repository](https://github.com/Mohsin-png01/landing_page_gig1)
-- [🔗 HTML Portfolio Repository](https://github.com/Mohsin-png01/html-css-js-portfolio)
+### Landing Page Collection
+**Modern Landing Pages** - Responsive web pages
+- HTML landing page with modern design
+- CSS-focused responsive layouts
+- Multi-technology portfolio implementations
+- [GIG2 Repository](https://github.com/Mohsin-png01/landing_page_gig2) | [GIG1 Repository](https://github.com/Mohsin-png01/landing_page_gig1) | [HTML Portfolio](https://github.com/Mohsin-png01/html-css-js-portfolio)
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
 <div align="center">
   <a href="mailto:mohsinjawad592@gmail.com">
@@ -150,21 +121,6 @@ I'm a passionate **Frontend & Flutter Developer** who loves creating beautiful, 
 
 ---
 
-## 💡 Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohsin-png01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <h3>⭐ Star my repositories if you find them interesting!</h3>
-  <p>Made with ❤️ and lots of ☕</p>
-</div>
-
----
